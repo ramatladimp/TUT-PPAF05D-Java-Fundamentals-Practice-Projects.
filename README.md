@@ -10,3 +10,8 @@ Concepts used:
 # 2. Fitness Scoring App('FitnessScoringApp.java') A counsole application calculating workout statistics.
 * ** Concepts used** *
 'Scanner' inputs, 'java.util.Random' explicit type casting (char to ASCII), and methods from the 'Math' class
+
+# 3. The Deep Sea Explore('TheDeepSeaExplore.java') A diver descends into the ocean and the program calculates survival stats based on their equipment and a randomly generated ocean current.
+
+* Concepts used *
+* 'Scanner inputs', 'java.util.Random', explicit type casting (char to ASCII), and methods from the 'Math' class, 'if-else, for conditional logic.
