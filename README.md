@@ -15,3 +15,7 @@ Concepts used:
 
 * Concepts used *
 * 'Scanner inputs', 'java.util.Random', explicit type casting (char to ASCII), and methods from the 'Math' class, 'if-else, for conditional logic.
+
+# 4 The student score check program(StudentScore.java). A program that prompts the user to enter the number of students they have then enter their scores(out of 100), check for the average score, and prints the grade symbol according to their average score. Repeats the program until the user stops it.
+* Concepts used *
+* 'Scanner input', 'do-while loop' for repeating the program for as long as they want, 'for loop', to prompt the user to enter their scores for the amount of students they have, and 'DecimalFormat', for clear output of the average score.
